@@ -1,0 +1,30 @@
+﻿Построение начато 28.10.2022 9:16:00.
+     1>Проект "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\lab 3.3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\lab 3.3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>h:\вартанов алексей 21вв1\2 курс\отчёты\алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\main.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>h:\вартанов алексей 21вв1\2 курс\отчёты\алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\main.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+     1>h:\вартанов алексей 21вв1\2 курс\отчёты\алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\main.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>h:\вартанов алексей 21вв1\2 курс\отчёты\алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\main.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>h:\вартанов алексей 21вв1\2 курс\отчёты\алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\main.cpp(174): warning C4101: prev: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\Debug\lab 3.3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab 3.3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\Debug\lab 3.3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\Debug\lab 3.3.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         lab 3.3.vcxproj -> H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\Debug\lab 3.3.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\Debug\lab 3.3.exe;#1" /manifest "Debug\lab 3.3.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\lab 3.3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab 3.3.lastbuildstate".
+     1>Построение проекта "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\сдавать!\3 lab для сдачи\lab 3.3(стэк)\lab 3.3\lab 3.3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.55
